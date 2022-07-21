@@ -69,6 +69,7 @@ or
 		- <ol></ol>: ordered list의 약자
 ```
 8. 문서의 구조
+	+ 많이 쓰이는 tag: `<head>`, `<body>`,`<html>`,`<title>`,`<meta>`
 	+ <title></title>: 문서의 제목 지정
 - 약속
 	+본문을 설명하는 태그: head 태그

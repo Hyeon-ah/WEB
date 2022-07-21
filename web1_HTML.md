@@ -10,12 +10,14 @@
 	+ 기획을 해야 함
 
 2. 사람과 기계가 하는 일 분리
+```
 사람이 하는 일: Code, Source, Language
 기계가 하는 일: Application, App. Program, Webpage, Website
  	관점에 따라 어휘가 달라지는 것
  	webpage 만드는 언어가 HTML
  HTML 장점: 쉬움, 중요함
  PUBLIC DOMAIN: 저작권이 없음
+```
 
 3. 태그 특징
  tag(태그)
@@ -72,26 +74,25 @@ or
 	+ 많이 쓰이는 tag: `<head>`, `<body>`,`<html>`,`<title>`,`<meta>`
 	+ <title></title>: 문서의 제목 지정
 - 약속
-- 
 	+ 본문을 설명하는 태그: head 태그
 	+ 본문: body 태그
 	+ head 태그와 body 태그를 감싸는 하나의 태그: html 태그
 	+ HTML로서 만들어졌다는 것을 표현하기 위해서 문서의 시작에 <!doctype html> 코드 추가
 
-9. HTML  태그의 여왕
-anchor의 a: 링크!
+9. HTML  태그의 여왕<br>
+anchor의 a: 링크!<br>
 	+ target="_blank"는 링크 클릭했을 때 새 창에서 페이지 열리기
 	+ a 태그 안의 title: 이 링크가 어떤 내용을 담고 있는지를
 툴팁으로 보여
 
-10. Internet vs Web
-<비유>
-도시(인터넷) & 도시의 위의 건물 하나(웹)
-도로(인터넷) & 도로 위를 달리는 자동차 한 대(웹)
-운영체제(인터넷) & 하나의 앱(웹)
+10. Internet vs Web <br>
+<비유><br>
+도시(인터넷) & 도시의 위의 건물 하나(웹)<br>
+도로(인터넷) & 도로 위를 달리는 자동차 한 대(웹)<br>
+운영체제(인터넷) & 하나의 앱(웹)<br>
 
 
-#쓰면-> div id 값 지정한 걸로 감
-.은 class
-
-grid --> col-sm-6(총 12를 반으로 나누어 사용하는 것!)
+#쓰면-> div id 값 지정한 걸로 감<br>
+.은 class<br>
+<br>
+grid --> col-sm-6(총 12를 반으로 나누어 사용하는 것!)<br>

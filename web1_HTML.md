@@ -1,3 +1,9 @@
++ <h1> </h1>: 글씨 굵게
++ <ol> </ol>: 1. 2. 3. 생성
++ <li> </li>: 리스트화 
++ <p> </p>: passage 만듦
+
+
 1. HTML(Hypertext Markup Language)
 웹페이지를 만들기 위해서는
 	+ 기획을 해야 함

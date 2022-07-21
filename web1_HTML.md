@@ -61,10 +61,10 @@ or
 필요에 따라 달라짐
 
 그러나, 부모 자식 관계가 고정된 태그가 있음.
-	+ list(목차)의 줄임표현 li
-	+ <ul> </ul>: 목록에서 다른 목록과 구분할 수 있도록 경계가 표시
-	+ <ul></ul>:  unordered list의 약자
-	+ <ol></ol>: ordered list의 약자
+	- list(목차)의 줄임표현 li
+	- <ul> </ul>: 목록에서 다른 목록과 구분할 수 있도록 경계가 표시
+	- <ul></ul>:  unordered list의 약자
+	- <ol></ol>: ordered list의 약자
 
 8. 문서의 구조
 	+ <title></title>: 문서의 제목 지정

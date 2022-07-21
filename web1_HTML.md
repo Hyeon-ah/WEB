@@ -72,10 +72,11 @@ or
 	+ 많이 쓰이는 tag: `<head>`, `<body>`,`<html>`,`<title>`,`<meta>`
 	+ <title></title>: 문서의 제목 지정
 - 약속
-	+본문을 설명하는 태그: head 태그
-	+본문: body 태그
-	+head 태그와 body 태그를 감싸는 하나의 태그: html 태그
-	+HTML로서 만들어졌다는 것을 표현하기 위해서 문서의 시작에 <!doctype html> 코드 추가
+- 
+	+ 본문을 설명하는 태그: head 태그
+	+ 본문: body 태그
+	+ head 태그와 body 태그를 감싸는 하나의 태그: html 태그
+	+ HTML로서 만들어졌다는 것을 표현하기 위해서 문서의 시작에 <!doctype html> 코드 추가
 
 9. HTML  태그의 여왕
 anchor의 a: 링크!
